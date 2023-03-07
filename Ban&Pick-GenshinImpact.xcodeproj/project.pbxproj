@@ -14,6 +14,7 @@
 		87589B1B29B723C1008E8FB2 /* Ban_Pick_GenshinImpact.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 87589B1929B723C1008E8FB2 /* Ban_Pick_GenshinImpact.xcdatamodeld */; };
 		87589B1D29B723C2008E8FB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87589B1C29B723C2008E8FB2 /* Assets.xcassets */; };
 		87589B2029B723C2008E8FB2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87589B1E29B723C2008E8FB2 /* LaunchScreen.storyboard */; };
+		87589B2829B72AA2008E8FB2 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 87589B2729B72AA2008E8FB2 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		87589B1C29B723C2008E8FB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		87589B1F29B723C2008E8FB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		87589B2129B723C2008E8FB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87589B2729B72AA2008E8FB2 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		87589B0429B723C1008E8FB2 = {
 			isa = PBXGroup;
 			children = (
+				87589B2729B72AA2008E8FB2 /* .gitignore */,
 				87589B0F29B723C1008E8FB2 /* Ban&Pick-GenshinImpact */,
 				87589B0E29B723C1008E8FB2 /* Products */,
 			);
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87589B2829B72AA2008E8FB2 /* .gitignore in Resources */,
 				87589B2029B723C2008E8FB2 /* LaunchScreen.storyboard in Resources */,
 				87589B1D29B723C2008E8FB2 /* Assets.xcassets in Resources */,
 				87589B1829B723C1008E8FB2 /* Main.storyboard in Resources */,
